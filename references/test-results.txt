@@ -1,0 +1,59 @@
+test_account (test_v1.AdapterTests.test_account) ... ok
+test_cache (test_v1.AdapterTests.test_cache) ... ok
+test_cache_expiration (test_v1.AdapterTests.test_cache_expiration) ... ok
+test_comments_paginate_truncate (test_v1.AdapterTests.test_comments_paginate_truncate) ... ok
+test_counts (test_v1.AdapterTests.test_counts) ... ok
+test_identity_mismatch (test_v1.AdapterTests.test_identity_mismatch) ... ok
+test_identity_validation (test_v1.AdapterTests.test_identity_validation) ... ok
+test_live_rejects_mock_contract (test_v1.AdapterTests.test_live_rejects_mock_contract) ... ok
+test_missing_optional_fields_stay_none (test_v1.AdapterTests.test_missing_optional_fields_stay_none) ... ok
+test_notes_pagination_and_limit (test_v1.AdapterTests.test_notes_pagination_and_limit) ... ok
+test_products (test_v1.AdapterTests.test_products) ... ok
+test_repeated_cursor_terminates (test_v1.AdapterTests.test_repeated_cursor_terminates) ... ok
+test_schema_drift (test_v1.AdapterTests.test_schema_drift) ... ok
+test_second_page_failure_keeps_first_page (test_v1.AdapterTests.test_second_page_failure_keeps_first_page) ... ok
+test_unknown_required_field_drops_row (test_v1.AdapterTests.test_unknown_required_field_drops_row) ... ok
+test_upstream_failure_not_cached (test_v1.AdapterTests.test_upstream_failure_not_cached) ... ok
+test_analysis_missing_item_rejected (test_v1.AnalysisReportTests.test_analysis_missing_item_rejected) ... ok
+test_boss_is_condensed (test_v1.AnalysisReportTests.test_boss_is_condensed) ... ok
+test_cli_mock (test_v1.AnalysisReportTests.test_cli_mock) ... ok
+test_cover_bytes_and_visual_evidence (test_v1.AnalysisReportTests.test_cover_bytes_and_visual_evidence) ... ok
+test_cover_private_host_rejected (test_v1.AnalysisReportTests.test_cover_private_host_rejected) ... ok
+test_csv_formula_injection (test_v1.AnalysisReportTests.test_csv_formula_injection) ... ok
+test_deterministic_promise_rejected (test_v1.AnalysisReportTests.test_deterministic_promise_rejected) ... ok
+test_finalize (test_v1.AnalysisReportTests.test_finalize) ... ok
+test_full_chain_defaults (test_v1.AnalysisReportTests.test_full_chain_defaults) ... ok
+test_html_escaping (test_v1.AnalysisReportTests.test_html_escaping) ... ok
+test_remote_model_mocked_transport (test_v1.AnalysisReportTests.test_remote_model_mocked_transport) ... ok
+test_synthetic_cannot_be_live (test_v1.AnalysisReportTests.test_synthetic_cannot_be_live) ... ok
+test_unfounded_need_rejected (test_v1.AnalysisReportTests.test_unfounded_need_rejected) ... ok
+test_unknown_evidence_rejected (test_v1.AnalysisReportTests.test_unknown_evidence_rejected) ... ok
+test_visual_without_image_rejected (test_v1.AnalysisReportTests.test_visual_without_image_rejected) ... ok
+test_wrong_dataset_rejected (test_v1.AnalysisReportTests.test_wrong_dataset_rejected) ... ok
+test_inventory (test_v1.ContractTests.test_inventory) ... ok
+test_redaction (test_v1.ContractTests.test_redaction) ... ok
+test_validate_only_observed_paths (test_v1.ContractTests.test_validate_only_observed_paths) ... ok
+test_claim_validation (test_v1.SchemaTests.test_claim_validation) ... ok
+test_invalid_fields (test_v1.SchemaTests.test_invalid_fields) ... ok
+test_price (test_v1.SchemaTests.test_price) ... ok
+test_skill_metadata (test_v1.SchemaTests.test_skill_metadata) ... ok
+test_valid_note (test_v1.SchemaTests.test_valid_note) ... ok
+test_all_missing (test_v1.ScoreTests.test_all_missing) ... ok
+test_known_baseline (test_v1.ScoreTests.test_known_baseline) ... ok
+test_limit (test_v1.ScoreTests.test_limit) ... ok
+test_missing_not_zero (test_v1.ScoreTests.test_missing_not_zero) ... ok
+test_zero_baseline (test_v1.ScoreTests.test_zero_baseline) ... ok
+test_403_not_retried (test_v1.TransportTests.test_403_not_retried) ... ok
+test_budget (test_v1.TransportTests.test_budget) ... ok
+test_degradation (test_v1.TransportTests.test_degradation) ... ok
+test_retry_then_cache (test_v1.TransportTests.test_retry_then_cache) ... ok
+test_timeout_limited (test_v1.TransportTests.test_timeout_limited) ... ok
+test_total_failure_still_report (test_v1.TransportTests.test_total_failure_still_report) ... ok
+
+----------------------------------------------------------------------
+Ran 51 tests in 19.773s
+
+OK
+Report: C:\Users\lenovo\AppData\Local\Temp\tmpt4rudieu\cli\report.html
+AI status: complete (synthetic fixture)
+Report: C:\Users\lenovo\AppData\Local\Temp\tmprxy8xobu\report\report.html

@@ -1,0 +1,1736 @@
+{
+  "dataset_digest": "e0586c676c4944764a96d4cacda27d38d6b124f59ff7614332d9d16a38792d8e",
+  "source": "synthetic-fixture",
+  "positioning": {
+    "claim": "样本内容围绕有限空间的日常收纳，用场景演示解释商品选择与使用取舍。",
+    "claim_type": "ANALYSIS",
+    "confidence": 0.65,
+    "evidence_ids": [
+      "note:100000000000000000000099",
+      "note:100000000000000000000098",
+      "note:100000000000000000000090"
+    ]
+  },
+  "note_analyses": [
+    {
+      "note_id": "100000000000000000000099",
+      "content_model": {
+        "claim": "用户提问→实测回应→使用提醒",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "tag": "用户提问→实测回应→使用提醒"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ]
+      },
+      "scenes": {
+        "claim": "小户型冰箱",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "tag": "小户型冰箱"
+      },
+      "pain_points": {
+        "claim": "尺寸不合",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "tag": "尺寸不合"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000098",
+      "content_model": {
+        "claim": "常见误区→原因解释→替代方法",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "tag": "常见误区→原因解释→替代方法"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ]
+      },
+      "scenes": {
+        "claim": "宿舍桌面",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "tag": "宿舍桌面"
+      },
+      "pain_points": {
+        "claim": "容易串味",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "tag": "容易串味"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000090",
+      "content_model": {
+        "claim": "场景问题→操作演示→边界说明",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "tag": "场景问题→操作演示→边界说明"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ]
+      },
+      "scenes": {
+        "claim": "租房厨房",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "tag": "租房厨房"
+      },
+      "pain_points": {
+        "claim": "空间不够",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "tag": "空间不够"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000097",
+      "content_model": {
+        "claim": "真实流程→分步记录→复盘",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "tag": "真实流程→分步记录→复盘"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ]
+      },
+      "scenes": {
+        "claim": "周末备餐",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "tag": "周末备餐"
+      },
+      "pain_points": {
+        "claim": "拿取费时",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "tag": "拿取费时"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000089",
+      "content_model": {
+        "claim": "用户提问→实测回应→使用提醒",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000089"
+        ],
+        "tag": "用户提问→实测回应→使用提醒"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000089"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000089"
+        ]
+      },
+      "scenes": {
+        "claim": "小户型冰箱",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000089"
+        ],
+        "tag": "小户型冰箱"
+      },
+      "pain_points": {
+        "claim": "尺寸不合",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000089"
+        ],
+        "tag": "尺寸不合"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000089"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000096",
+      "content_model": {
+        "claim": "两种方案对比→使用条件→取舍",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "tag": "两种方案对比→使用条件→取舍"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ]
+      },
+      "scenes": {
+        "claim": "通勤午餐",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "tag": "通勤午餐"
+      },
+      "pain_points": {
+        "claim": "清洗麻烦",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "tag": "清洗麻烦"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000088",
+      "content_model": {
+        "claim": "常见误区→原因解释→替代方法",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000088"
+        ],
+        "tag": "常见误区→原因解释→替代方法"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000088"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000088"
+        ]
+      },
+      "scenes": {
+        "claim": "宿舍桌面",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000088"
+        ],
+        "tag": "宿舍桌面"
+      },
+      "pain_points": {
+        "claim": "容易串味",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000088"
+        ],
+        "tag": "容易串味"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000088"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000095",
+      "content_model": {
+        "claim": "场景问题→操作演示→边界说明",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000095"
+        ],
+        "tag": "场景问题→操作演示→边界说明"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000095"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000095"
+        ]
+      },
+      "scenes": {
+        "claim": "租房厨房",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000095"
+        ],
+        "tag": "租房厨房"
+      },
+      "pain_points": {
+        "claim": "空间不够",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000095"
+        ],
+        "tag": "空间不够"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000095"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000087",
+      "content_model": {
+        "claim": "真实流程→分步记录→复盘",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000087"
+        ],
+        "tag": "真实流程→分步记录→复盘"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000087"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000087"
+        ]
+      },
+      "scenes": {
+        "claim": "周末备餐",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000087"
+        ],
+        "tag": "周末备餐"
+      },
+      "pain_points": {
+        "claim": "拿取费时",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000087"
+        ],
+        "tag": "拿取费时"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000087"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000094",
+      "content_model": {
+        "claim": "用户提问→实测回应→使用提醒",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000094"
+        ],
+        "tag": "用户提问→实测回应→使用提醒"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000094"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000094"
+        ]
+      },
+      "scenes": {
+        "claim": "小户型冰箱",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000094"
+        ],
+        "tag": "小户型冰箱"
+      },
+      "pain_points": {
+        "claim": "尺寸不合",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000094"
+        ],
+        "tag": "尺寸不合"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000094"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000086",
+      "content_model": {
+        "claim": "两种方案对比→使用条件→取舍",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000086"
+        ],
+        "tag": "两种方案对比→使用条件→取舍"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000086"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000086"
+        ]
+      },
+      "scenes": {
+        "claim": "通勤午餐",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000086"
+        ],
+        "tag": "通勤午餐"
+      },
+      "pain_points": {
+        "claim": "清洗麻烦",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000086"
+        ],
+        "tag": "清洗麻烦"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000086"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000093",
+      "content_model": {
+        "claim": "常见误区→原因解释→替代方法",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000093"
+        ],
+        "tag": "常见误区→原因解释→替代方法"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000093"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000093"
+        ]
+      },
+      "scenes": {
+        "claim": "宿舍桌面",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000093"
+        ],
+        "tag": "宿舍桌面"
+      },
+      "pain_points": {
+        "claim": "容易串味",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000093"
+        ],
+        "tag": "容易串味"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000093"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000077",
+      "content_model": {
+        "claim": "真实流程→分步记录→复盘",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000077"
+        ],
+        "tag": "真实流程→分步记录→复盘"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000077"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000077"
+        ]
+      },
+      "scenes": {
+        "claim": "周末备餐",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000077"
+        ],
+        "tag": "周末备餐"
+      },
+      "pain_points": {
+        "claim": "拿取费时",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000077"
+        ],
+        "tag": "拿取费时"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000077"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000085",
+      "content_model": {
+        "claim": "场景问题→操作演示→边界说明",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000085"
+        ],
+        "tag": "场景问题→操作演示→边界说明"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000085"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000085"
+        ]
+      },
+      "scenes": {
+        "claim": "租房厨房",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000085"
+        ],
+        "tag": "租房厨房"
+      },
+      "pain_points": {
+        "claim": "空间不够",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000085"
+        ],
+        "tag": "空间不够"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000085"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000084",
+      "content_model": {
+        "claim": "用户提问→实测回应→使用提醒",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000084"
+        ],
+        "tag": "用户提问→实测回应→使用提醒"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000084"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000084"
+        ]
+      },
+      "scenes": {
+        "claim": "小户型冰箱",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000084"
+        ],
+        "tag": "小户型冰箱"
+      },
+      "pain_points": {
+        "claim": "尺寸不合",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000084"
+        ],
+        "tag": "尺寸不合"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000084"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000092",
+      "content_model": {
+        "claim": "真实流程→分步记录→复盘",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000092"
+        ],
+        "tag": "真实流程→分步记录→复盘"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000092"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000092"
+        ]
+      },
+      "scenes": {
+        "claim": "周末备餐",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000092"
+        ],
+        "tag": "周末备餐"
+      },
+      "pain_points": {
+        "claim": "拿取费时",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000092"
+        ],
+        "tag": "拿取费时"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000092"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000076",
+      "content_model": {
+        "claim": "两种方案对比→使用条件→取舍",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000076"
+        ],
+        "tag": "两种方案对比→使用条件→取舍"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000076"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000076"
+        ]
+      },
+      "scenes": {
+        "claim": "通勤午餐",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000076"
+        ],
+        "tag": "通勤午餐"
+      },
+      "pain_points": {
+        "claim": "清洗麻烦",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000076"
+        ],
+        "tag": "清洗麻烦"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000076"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000083",
+      "content_model": {
+        "claim": "常见误区→原因解释→替代方法",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000083"
+        ],
+        "tag": "常见误区→原因解释→替代方法"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000083"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000083"
+        ]
+      },
+      "scenes": {
+        "claim": "宿舍桌面",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000083"
+        ],
+        "tag": "宿舍桌面"
+      },
+      "pain_points": {
+        "claim": "容易串味",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000083"
+        ],
+        "tag": "容易串味"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000083"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000091",
+      "content_model": {
+        "claim": "两种方案对比→使用条件→取舍",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000091"
+        ],
+        "tag": "两种方案对比→使用条件→取舍"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000091"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000091"
+        ]
+      },
+      "scenes": {
+        "claim": "通勤午餐",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000091"
+        ],
+        "tag": "通勤午餐"
+      },
+      "pain_points": {
+        "claim": "清洗麻烦",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000091"
+        ],
+        "tag": "清洗麻烦"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000091"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    },
+    {
+      "note_id": "100000000000000000000075",
+      "content_model": {
+        "claim": "场景问题→操作演示→边界说明",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000075"
+        ],
+        "tag": "场景问题→操作演示→边界说明"
+      },
+      "title_structure": {
+        "claim": "以具体使用情境提出选择问题，让读者预判内容用途。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000075"
+        ]
+      },
+      "body_structure": {
+        "claim": "先描述限制，再展示使用过程，最后说明不适合的情形。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000075"
+        ]
+      },
+      "scenes": {
+        "claim": "租房厨房",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000075"
+        ],
+        "tag": "租房厨房"
+      },
+      "pain_points": {
+        "claim": "空间不够",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000075"
+        ],
+        "tag": "空间不够"
+      },
+      "selling_points": {
+        "claim": "文中强调便于分类与取放；这属于内容表达，尚非产品性能验证。",
+        "claim_type": "ANALYSIS",
+        "confidence": 0.65,
+        "evidence_ids": [
+          "note:100000000000000000000075"
+        ],
+        "tag": "分类与取放"
+      },
+      "visual": null
+    }
+  ],
+  "needs": [
+    {
+      "claim": "评论样本出现“空间不够”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。",
+      "claim_type": "ANALYSIS",
+      "confidence": 0.65,
+      "evidence_ids": [
+        "comment:mock-c99-0",
+        "comment:mock-c99-5",
+        "comment:mock-c99-10",
+        "comment:mock-c99-15",
+        "comment:mock-c99-20"
+      ],
+      "tag": "空间不够"
+    },
+    {
+      "claim": "评论样本出现“清洗麻烦”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。",
+      "claim_type": "ANALYSIS",
+      "confidence": 0.65,
+      "evidence_ids": [
+        "comment:mock-c99-1",
+        "comment:mock-c99-6",
+        "comment:mock-c99-11",
+        "comment:mock-c99-16",
+        "comment:mock-c99-21"
+      ],
+      "tag": "清洗麻烦"
+    },
+    {
+      "claim": "评论样本出现“拿取费时”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。",
+      "claim_type": "ANALYSIS",
+      "confidence": 0.65,
+      "evidence_ids": [
+        "comment:mock-c99-2",
+        "comment:mock-c99-7",
+        "comment:mock-c99-12",
+        "comment:mock-c99-17",
+        "comment:mock-c99-22"
+      ],
+      "tag": "拿取费时"
+    },
+    {
+      "claim": "评论样本出现“容易串味”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。",
+      "claim_type": "ANALYSIS",
+      "confidence": 0.65,
+      "evidence_ids": [
+        "comment:mock-c99-3",
+        "comment:mock-c99-8",
+        "comment:mock-c99-13",
+        "comment:mock-c99-18",
+        "comment:mock-c99-23"
+      ],
+      "tag": "容易串味"
+    },
+    {
+      "claim": "评论样本出现“尺寸不合”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。",
+      "claim_type": "ANALYSIS",
+      "confidence": 0.65,
+      "evidence_ids": [
+        "comment:mock-c99-4",
+        "comment:mock-c99-9",
+        "comment:mock-c99-14",
+        "comment:mock-c99-19",
+        "comment:mock-c99-24"
+      ],
+      "tag": "尺寸不合"
+    }
+  ],
+  "matrix": [],
+  "hypotheses": {
+    "products": [
+      {
+        "claim": "围绕可叠放保鲜盒测试“空间不够”的解决方式：先比较用户提问与收藏反馈，再验证实际使用体验；不预估销量。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "product:mock-p0",
+          "note:100000000000000000000099"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "围绕分隔午餐盒测试“清洗麻烦”的解决方式：先比较用户提问与收藏反馈，再验证实际使用体验；不预估销量。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "product:mock-p1",
+          "note:100000000000000000000098"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "围绕抽屉收纳盘测试“拿取费时”的解决方式：先比较用户提问与收藏反馈，再验证实际使用体验；不预估销量。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "product:mock-p2",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      }
+    ],
+    "content_models": [
+      {
+        "claim": "测试模型：场景问题→操作演示→边界说明；同一商品固定主题，只改变叙事顺序，比较账号自身互动。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "测试模型：两种方案对比→使用条件→取舍；同一商品固定主题，只改变叙事顺序，比较账号自身互动。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "测试模型：真实流程→分步记录→复盘；同一商品固定主题，只改变叙事顺序，比较账号自身互动。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "测试模型：常见误区→原因解释→替代方法；同一商品固定主题，只改变叙事顺序，比较账号自身互动。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "测试模型：用户提问→实测回应→使用提醒；同一商品固定主题，只改变叙事顺序，比较账号自身互动。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      }
+    ],
+    "titles": [
+      {
+        "claim": "原创标题结构：[场景]里，[商品]怎么放才顺手？",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "原创标题结构：选[商品]前，先量这[数字]个位置",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "原创标题结构：[方案A]和[方案B]，我会按[条件]来选",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "原创标题结构：[痛点]反复出现，先检查[使用步骤]",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "原创标题结构：[人群]的[场景]整理：从[小区域]开始",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "原创标题结构：用了[时长]后，[商品]最想改的是哪一点",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "原创标题结构：别只看[外观]：[商品]还要检查[参数]",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "原创标题结构：[预算]以内，先解决[具体问题]",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "原创标题结构：你问的[顾虑]，这次用[操作]验证",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "原创标题结构：同样的[空间]，换个[摆放方式]会怎样",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      }
+    ],
+    "covers": [
+      {
+        "claim": "封面测试结构：左右分屏呈现两种摆放方式，标注相同尺寸与条件；当前未获取竞品图片，此为文本证据启发的创意假设。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "封面测试结构：俯拍完整使用场景，用一处箭头指向关键障碍；当前未获取竞品图片，此为文本证据启发的创意假设。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "封面测试结构：商品特写搭配尺寸标尺，文字只保留一个选择问题；当前未获取竞品图片，此为文本证据启发的创意假设。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "封面测试结构：三帧连续动作说明取放步骤，统一背景与拍摄距离；当前未获取竞品图片，此为文本证据启发的创意假设。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "封面测试结构：用户问题作为短标题，下方放对应验证过程画面；当前未获取竞品图片，此为文本证据启发的创意假设。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099",
+          "note:100000000000000000000098",
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      }
+    ],
+    "topics": [
+      {
+        "claim": "租房厨房的可叠放保鲜盒：用“尺寸测量清单”检验空间不够是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "租房厨房的可叠放保鲜盒：用“清洗流程记录”检验空间不够是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "租房厨房的可叠放保鲜盒：用“满载与空载取放对比”检验空间不够是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "租房厨房的可叠放保鲜盒：用“不同摆放方向实测”检验空间不够是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "租房厨房的可叠放保鲜盒：用“一周使用后问题复盘”检验空间不够是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "租房厨房的可叠放保鲜盒：用“不适合人群说明”检验空间不够是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000090"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "通勤午餐的分隔午餐盒：用“尺寸测量清单”检验清洗麻烦是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "通勤午餐的分隔午餐盒：用“清洗流程记录”检验清洗麻烦是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "通勤午餐的分隔午餐盒：用“满载与空载取放对比”检验清洗麻烦是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "通勤午餐的分隔午餐盒：用“不同摆放方向实测”检验清洗麻烦是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "通勤午餐的分隔午餐盒：用“一周使用后问题复盘”检验清洗麻烦是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "通勤午餐的分隔午餐盒：用“不适合人群说明”检验清洗麻烦是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000096"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "周末备餐的抽屉收纳盘：用“尺寸测量清单”检验拿取费时是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "周末备餐的抽屉收纳盘：用“清洗流程记录”检验拿取费时是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "周末备餐的抽屉收纳盘：用“满载与空载取放对比”检验拿取费时是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "周末备餐的抽屉收纳盘：用“不同摆放方向实测”检验拿取费时是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "周末备餐的抽屉收纳盘：用“一周使用后问题复盘”检验拿取费时是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "周末备餐的抽屉收纳盘：用“不适合人群说明”检验拿取费时是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000097"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "宿舍桌面的可叠放保鲜盒：用“尺寸测量清单”检验容易串味是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "宿舍桌面的可叠放保鲜盒：用“清洗流程记录”检验容易串味是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "宿舍桌面的可叠放保鲜盒：用“满载与空载取放对比”检验容易串味是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "宿舍桌面的可叠放保鲜盒：用“不同摆放方向实测”检验容易串味是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "宿舍桌面的可叠放保鲜盒：用“一周使用后问题复盘”检验容易串味是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "宿舍桌面的可叠放保鲜盒：用“不适合人群说明”检验容易串味是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000098"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "小户型冰箱的分隔午餐盒：用“尺寸测量清单”检验尺寸不合是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "小户型冰箱的分隔午餐盒：用“清洗流程记录”检验尺寸不合是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "小户型冰箱的分隔午餐盒：用“满载与空载取放对比”检验尺寸不合是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "小户型冰箱的分隔午餐盒：用“不同摆放方向实测”检验尺寸不合是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "小户型冰箱的分隔午餐盒：用“一周使用后问题复盘”检验尺寸不合是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      },
+      {
+        "claim": "小户型冰箱的分隔午餐盒：用“不适合人群说明”检验尺寸不合是否改善；记录失败条件。",
+        "claim_type": "INFERENCE",
+        "confidence": 0.4,
+        "evidence_ids": [
+          "note:100000000000000000000099"
+        ],
+        "label": "基于竞品公开数据形成的测试假设"
+      }
+    ]
+  }
+}

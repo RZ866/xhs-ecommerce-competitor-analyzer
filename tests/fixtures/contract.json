@@ -1,0 +1,90 @@
+{
+  "provenance": "synthetic-fixture",
+  "validated": false,
+  "endpoints": {
+    "account": {
+      "items_path": "data",
+      "fields": {
+        "account_id": "id",
+        "nickname": "name",
+        "bio": "bio",
+        "followers": "followers"
+      },
+      "success_path": "ok",
+      "success_value": true
+    },
+    "notes": {
+      "items_path": "data",
+      "fields": {
+        "note_id": "id",
+        "account_id": "author",
+        "title": "title",
+        "body": "text",
+        "published_at": "time",
+        "likes": "metrics.likes",
+        "saves": "metrics.saves",
+        "comments": "metrics.comments",
+        "shares": "metrics.shares",
+        "url": "link",
+        "product_ids": "product_refs"
+      },
+      "success_path": "ok",
+      "success_value": true,
+      "pagination": {
+        "has_more_path": "more",
+        "next_params": {
+          "cursor": "cursor"
+        }
+      }
+    },
+    "detail": {
+      "items_path": "data",
+      "fields": {
+        "note_id": "id",
+        "account_id": "author",
+        "title": "title",
+        "body": "text",
+        "published_at": "time",
+        "likes": "metrics.likes",
+        "saves": "metrics.saves",
+        "comments": "metrics.comments",
+        "shares": "metrics.shares",
+        "url": "link",
+        "product_ids": "product_refs"
+      },
+      "success_path": "ok",
+      "success_value": true
+    },
+    "comments": {
+      "items_path": "data",
+      "fields": {
+        "comment_id": "id",
+        "text": "text",
+        "likes": "likes"
+      },
+      "success_path": "ok",
+      "success_value": true,
+      "pagination": {
+        "has_more_path": "more",
+        "next_params": {
+          "cursor": "cursor"
+        }
+      }
+    },
+    "products": {
+      "items_path": "data",
+      "fields": {
+        "product_id": "id",
+        "name": "name",
+        "price": "price",
+        "currency": "currency"
+      },
+      "success_path": "ok",
+      "success_value": true,
+      "pagination": {
+        "has_more_path": "more",
+        "page_parameter": "page"
+      }
+    }
+  }
+}
