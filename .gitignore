@@ -1,0 +1,15 @@
+.env
+.env.*
+*.key
+*credentials*
+*cookies*
+*secrets*
+__pycache__/
+*.pyc
+.venv/
+.state/
+.internal/
+reports/
+xhs-report/
+dist/
+.pytest_cache/

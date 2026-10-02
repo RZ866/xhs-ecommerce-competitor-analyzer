@@ -1,0 +1,13 @@
+xhs-ecommerce-competitor-analyzer V2
+Copyright 2026 RZ866 and contributors
+
+Research and architecture reference:
+tamnd/xiaohongshu-cli — https://github.com/tamnd/xiaohongshu-cli
+Copyright 2026 Duc-Tam Nguyen
+Licensed under the Apache License, Version 2.0.
+Inspected commit: b60f9a384ed32d002aaacbbff95fedb2bdc96682
+
+This project independently implements an anonymous public-page adapter.
+No upstream binary, signing implementation, login/session code or Go source
+is distributed. The parsing design and observed source field layout informed
+the adapter; the upstream license and attribution are retained in references.

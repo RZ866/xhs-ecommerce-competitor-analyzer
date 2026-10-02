@@ -1,0 +1,21 @@
+{
+  "observed_at": "2026-10-02T08:13:24Z",
+  "url": "https://www.xiaohongshu.com/user/profile/5ff0e6500000000001008400",
+  "request_method": "GET",
+  "requests": 1,
+  "status": 302,
+  "location": "https://www.xiaohongshu.com/login",
+  "body_bytes": 164,
+  "elapsed_seconds": 1.485,
+  "initial_state_present": false,
+  "successful_account_fields": [],
+  "actual_notes": 0,
+  "detail_requests": 0,
+  "cookie_used": false,
+  "login_used": false,
+  "paid_data_used": false,
+  "restricted": true,
+  "rate_limited_observed": false,
+  "complete_live_pipeline_passed": false,
+  "interpretation": "Login wall; stopped immediately. Subsequent report generation replays this observation offline, not a second live fetch."
+}
