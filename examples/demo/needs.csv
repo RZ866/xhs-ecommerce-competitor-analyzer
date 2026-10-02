@@ -1,6 +1,0 @@
-﻿claim,claim_type,confidence,evidence_ids,tag
-评论样本出现“空间不够”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。,ANALYSIS,0.65,"[""comment:mock-c99-0"", ""comment:mock-c99-5"", ""comment:mock-c99-10"", ""comment:mock-c99-15"", ""comment:mock-c99-20""]",空间不够
-评论样本出现“清洗麻烦”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。,ANALYSIS,0.65,"[""comment:mock-c99-1"", ""comment:mock-c99-6"", ""comment:mock-c99-11"", ""comment:mock-c99-16"", ""comment:mock-c99-21""]",清洗麻烦
-评论样本出现“拿取费时”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。,ANALYSIS,0.65,"[""comment:mock-c99-2"", ""comment:mock-c99-7"", ""comment:mock-c99-12"", ""comment:mock-c99-17"", ""comment:mock-c99-22""]",拿取费时
-评论样本出现“容易串味”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。,ANALYSIS,0.65,"[""comment:mock-c99-3"", ""comment:mock-c99-8"", ""comment:mock-c99-13"", ""comment:mock-c99-18"", ""comment:mock-c99-23""]",容易串味
-评论样本出现“尺寸不合”相关表达，可进一步测试这一使用阻碍；不能外推为全市场需求。,ANALYSIS,0.65,"[""comment:mock-c99-4"", ""comment:mock-c99-9"", ""comment:mock-c99-14"", ""comment:mock-c99-19"", ""comment:mock-c99-24""]",尺寸不合
